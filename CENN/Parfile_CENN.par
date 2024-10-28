@@ -1,0 +1,11 @@
+  {
+    "learning_rate" : 0.001,
+    "momentum" : 0.9,
+    "batch_size" : 32,
+    "num_epochs" : 3000,
+    "L2_regularizer_value" : 0.0001,
+    "test_frequency" : 1,
+    "channels_order" : "channels_last",
+    "padding_type" : "same",
+    "Num_imagenes" : 1
+}

@@ -1,0 +1,7 @@
+{
+    "Patch_Size" : 256,
+    "Filtro" : "Q",
+    "train_file" : "./Train_Q.h5",
+    "test_file" : "./Test_Q.h5",
+    "validation_file" : "./Validation_Q.h5"
+}
